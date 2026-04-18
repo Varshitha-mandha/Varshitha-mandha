@@ -1,5 +1,16 @@
-# 💫 About Me:
-I’m a passionate CSE student who enjoys building impactful tech solutions using Java, Data Structures & Algorithms, and AI-driven web technologies.<br>My work focuses on developing scalable and efficient web applications along with intelligent software solutions.<br><br>I enjoy:<br><br>Solving complex problems using Data Structures & Algorithms<br>Building dynamic and responsive web applications<br>Exploring AI integration in modern software solutions<br><br>Always learning. Always building.
+## 🌱 About Me:
+
+🔭 I’m currently working on building web applications using Java and AI-based technologies  
+
+👯 I’m looking to collaborate on innovative web development and AI projects  
+
+🤝 I’m looking for help with improving scalable system design and advanced DSA  
+
+🌱 I’m currently learning advanced Data Structures, System Design, and modern web frameworks  
+
+💬 Ask me about Java, DSA, and web development  
+
+⚡ Fun fact: I enjoy turning ideas into real-world applications through code  
 
 
 ## 🌐 Connect with me:
